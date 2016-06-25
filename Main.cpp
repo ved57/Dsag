@@ -5,13 +5,10 @@
  *      Author: root
  */
 
-
-
-
 #include "Main.h"
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	UF_main();
+	Graph_main();
 	return 0;
 }

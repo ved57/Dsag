@@ -10,6 +10,6 @@
 
 #include "Definitions.h"
 #include "UnionFind/UF.h"
-
+#include "Graph/Graph.h"
 
 #endif /* MAIN_H_ */
