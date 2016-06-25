@@ -2,7 +2,7 @@
  * QuickUnion.cpp
  *
  *  Created on: May 29, 2016
- *      Author: root
+ *      Author: ved57
  */
 
 #include "UF.h"

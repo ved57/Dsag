@@ -2,7 +2,7 @@
  * Graph.h
  *
  *  Created on: Jun 25, 2016
- *      Author: root
+ *      Author: ved57
  */
 
 #ifndef DSAG_GRAPH_GRAPH_H_
